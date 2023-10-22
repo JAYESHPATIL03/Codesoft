@@ -3,7 +3,7 @@ class miniproject
 {
 	public static void main(String [] args)
 	{
-		int mynumber = (int)(Math.random()*100); //random 0.0 to 1  - genrate random number in decimal
+		int mynumber = (int)(Math.random()*100); 
 		Scanner sc = new Scanner(System.in);
 		int usernumber;
 		do
